@@ -10,8 +10,9 @@
 ## Sites auxiliáres
 
 - [Roda de cores e paleta Adobe Color](https://color.adobe.com/pt/create/color-wheel);
-- [Coolors](https://coolors.co/)
+- [Coolors](https://coolors.co/);
 - [Extensões mais usadas no VScode](https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas);
+- [Font Awesome](https://fontawesome.com/);
 
 ---
 ## Documentações
