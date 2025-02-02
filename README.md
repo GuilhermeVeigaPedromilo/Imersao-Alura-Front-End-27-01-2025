@@ -1,12 +1,19 @@
-# Imersão Alura Front-end 27/01/2025
+# Imersão Alura Front-end 2ª edição
 
 ---
 
-## Acesse as páginas criadas
+## Portfólio criado
 
-- [Portfólio](http://127.0.0.1:5500/Curso%20HTML-CSS-Alura/index.html)
+<img src="./public/Page_Portfolio.png">
 
 ---
+
+## Página Spotify em React.js
+
+<img src="./public/Page_Spotify.png">
+
+---
+
 ## Sites auxiliáres
 
 - [Roda de cores e paleta Adobe Color](https://color.adobe.com/pt/create/color-wheel);
